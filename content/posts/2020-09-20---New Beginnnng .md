@@ -8,7 +8,10 @@ category: "kaizen"
 tags:
   - "Guide"
   - "Programming"
-description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+description: "Hardik's Blog.
+
+I am computer science graduate from india.Starting my new blog for readers specially interested in computer science,Artificial Intelligence,Machine Learning,Data science and Technology for small amd medium businesses.
+"
 socialImage: "/media/computerimage.jpg"
 ---
 
